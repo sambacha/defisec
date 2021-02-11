@@ -1,0 +1,13 @@
+	var capabilities = {
+		"build" : "your build name",
+		"name" : "your test name",
+		"platform" : "macOS Sierra",
+		"browserName" : "Chrome",
+		"version" : "88.0",
+		"resolution" : "1280x1024",
+		"tunnel" : true,
+		"console" : true,
+		"network" : true,
+		"timezone" : "UTC+12:00",
+		"headless" : true
+	}
